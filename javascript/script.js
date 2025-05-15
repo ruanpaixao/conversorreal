@@ -3,7 +3,7 @@ const fromSelect = document.getElementById("from");
 const toSelect = document.getElementById("to");
 const resultDiv = document.getElementById("result");
 
-
+const apiKey = "8b0fcba7fac9f794fb2726f8";
 const moedas = ["USD", "BRL", "EUR", "GBP", "JPY", "ARS", "CAD", "AUD"];
 
 function preencherSelects() {
